@@ -1,5 +1,7 @@
 ## Hi there 👋
+[![Samuels's GitHub stats](https://github-readme-stats.vercel.app/api?username=cs168898)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cs168898)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cs168898/cs168898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
