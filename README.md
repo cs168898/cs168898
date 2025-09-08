@@ -1,6 +1,6 @@
 ## Hi there 👋
 Currently Working on:
-- Redis Cache Clone
+- Redis Cache Clone with Distrubuted Caching
 
 I'm currently learning:
 - Java
