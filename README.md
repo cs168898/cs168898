@@ -1,13 +1,11 @@
 ## Hi there 👋
 Currently Working on:
-- Redis Cache Clone with Distrubuted Caching
+- <a href = "https://github.com/cs168898/redis-clone"> Redis Cache Clone with Distrubuted Caching </a>
+- <a href = "https://github.com/kishyassin/goframe"> Goframe (Contributing) </a> 
 
 I'm currently learning:
 - Java
 - Golang
-
-Looking to collaboarte on:
-- Projects in the languages I am learning with to commit all my time to
 
 <p>
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs168898&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">  
