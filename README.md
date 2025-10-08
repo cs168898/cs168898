@@ -1,7 +1,7 @@
 ## Hi there 👋
 Currently Working on:
 - <a href = "https://github.com/cs168898/redis-clone"> Redis Cache Clone with Distrubuted Caching </a>
-- <a href = "https://github.com/kishyassin/goframe"> Goframe (Contributing) </a> 
+- <a href = "https://github.com/kishyassin/goframe"> Goframe </a> a Go package inspired by Python's Pandas, for data manipulation and analysis.
 
 I'm currently learning:
 - Java
