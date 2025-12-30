@@ -6,10 +6,6 @@ I'm currently learning:
 - Java
 - Golang
 
-<p>
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs168898&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">  
-  <br>
-</p>
 <!--
 **cs168898/cs168898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
